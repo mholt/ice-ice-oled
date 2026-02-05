@@ -1,0 +1,35 @@
+{
+  "name": "ice-ice-oled",
+  "version": "0.0.1",
+  "publisher": "dyanim",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "displayName": "Ice Ice OLED",
+  "description": "Pure black, chillingly icy cold, modern vibes, but not vibe-coded.",
+  "icon": "media/ice-ice-oled-cropped.jpg",
+  "categories": ["Themes"],
+  "keywords": ["oled", "ice", "icy", "cool", "blue", "pure black", "deep black"],
+  "galleryBanner": {
+    "color": "#1a2530",
+    "theme": "dark"
+  },
+  "preview": false,
+  "sponsor": {
+    "url": "https://github.com/sponsors/mholt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mholt/ice-ice-oled.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ice Ice OLED",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ice-ice-oled.json"
+      }
+    ]
+  }
+}
