@@ -38,6 +38,8 @@ This theme:
 
 [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) brings attention to certain strings like "TODO:" in your editor. These colors aren't customized by themes, unfortunately, but here's the user settings I use that I think look great with this theme:
 
+![Preview of TODO Highlight colors](https://github.com/mholt/ice-ice-oled/blob/main/media/todo-highlight.png?raw=true)
+
 ```json
 "todohighlight.keywords": [
 	{
@@ -78,4 +80,3 @@ This theme:
 	"EXPERIMENTAL:"
 ]
 ```
-
