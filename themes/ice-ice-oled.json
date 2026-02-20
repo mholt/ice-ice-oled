@@ -23,8 +23,8 @@
     "editor.findMatchHighlightBackground": "#004f6fc6", // other matches (other option: #32006fc6)
 
     "editorOverviewRuler.findMatchForeground": "#004f6fc6",
-    "editorLineNumber.activeForeground": "#5b819b",
-    "editorLineNumber.foreground": "#304553",
+    "editorLineNumber.activeForeground": "#6c9dbe",
+    "editorLineNumber.foreground": "#395466",
     "editorCursor.foreground": "#ffffff",
     "editorIndentGuide.background1": "#141e24",
     "editorIndentGuide.activeBackground1": "#1e2a32",
@@ -44,8 +44,8 @@
     "sideBarSectionHeader.foreground": "#f6f7f8",
 
     "activityBar.background": "#000000",
-    "activityBar.foreground": "#157aad",
-    "activityBar.inactiveForeground": "#435662",
+    "activityBar.foreground": "#ffffff",
+    "activityBar.inactiveForeground": "#6e90a4",
     "activityBarBadge.background": "#157aad",
     "activityBarBadge.foreground": "#ffffff",
 
